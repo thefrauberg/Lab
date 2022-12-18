@@ -1,3 +1,0 @@
-﻿  lab32.cpp
-C:\Users\thefrauberg\OneDrive\Рабочий стол\lab\lab32\lab32\lab32.cpp(45,28): warning C4305: инициализация: усечение из "double" в "float"
-  lab32.vcxproj -> C:\Users\thefrauberg\OneDrive\Рабочий стол\lab\lab32\lab32\x64\Debug\lab32.exe
