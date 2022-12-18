@@ -1,6 +1,0 @@
-﻿  ConsoleApplication1.cpp
-D:\Политех\09.09.22 прог\ConsoleApplication1.cpp(23,22): warning C4305: инициализация: усечение из "double" в "float"
-D:\Политех\09.09.22 прог\ConsoleApplication1.cpp(33,25): warning C4305: инициализация: усечение из "double" в "float"
-D:\Политех\09.09.22 прог\ConsoleApplication1.cpp(34,18): warning C4309: инициализация: усечение константного значения
-D:\Политех\09.09.22 прог\ConsoleApplication1.cpp(41,28): warning C4305: инициализация: усечение из "double" в "float"
-  ConsoleApplication1.vcxproj -> D:\Политех\09.09.22 прог\Debug\ConsoleApplication1.exe
