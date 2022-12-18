@@ -1,0 +1,5 @@
+﻿  lab_rab6.cpp
+  YearException.cpp
+  Создание кода...
+C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab6\lab_rab6\YearException.cpp(23): warning C4715: YearException::what: значение возвращается не при всех путях выполнения
+  lab_rab6.vcxproj -> C:\Users\ssten\Desktop\учеба\с++. Алгоритмы\lab_rab6\x64\Debug\lab_rab6.exe
